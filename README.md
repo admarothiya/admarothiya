@@ -9,9 +9,9 @@ With strong knowledge in **JavaScript**, **Python**, and **backend technologies*
 
 ## 🧰 Tech Stack
 
-- **Languages:** JavaScript, Python, C, C++, HTML, CSS, PHP  
+- **Languages:**  Python, C, C++, HTML, CSS, PHP  
 - **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js, REST API  
+- **Backend:** Node.js, Express.js,Django, REST API  
 - **Databases:** MongoDB, MySQL  
 
 ---
