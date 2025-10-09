@@ -63,13 +63,13 @@ React-based real-time currency exchange rate converter app.
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/aditya-kumawat" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-kumawat-5-903166250" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:admarothiya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://adport.netlify.app/]" target="_blank">
+  <a href="https://adport.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
