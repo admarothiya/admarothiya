@@ -42,8 +42,7 @@ Flask-based app to handle book lending, records, and admin control.
 #### 💬 Complaint Management Dashboard  
 MERN stack dashboard with user login, complaint submission & admin control panel.  
 
-#### 💱 Currency Converter  
-React-based real-time currency exchange rate converter app.
+
 
 ---
 
